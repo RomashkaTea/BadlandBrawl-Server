@@ -14,7 +14,10 @@ Change ip in lib/armeabi-v7a/libromashka.config.so
 
 ## How to use??
 pip install twisted
+
 pip install pycryptodome
+
 py main.py
+
 and open APK
 
