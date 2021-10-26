@@ -12,3 +12,9 @@ Change ip in lib/armeabi-v7a/libromashka.config.so
 "redirectHost": YOUR_HOST,
 "redirectPort": YOUR_PORT,
 
+## How to use??
+pip install twisted
+pip install pycryptodome
+py main.py
+and open APK
+
